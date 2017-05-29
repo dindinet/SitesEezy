@@ -1,3 +1,7 @@
+- name: Home
+  link: /
+- name: FAQ
+  link: /faq/
 - name: Blog
   link: /blog/
 - name: About
