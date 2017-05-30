@@ -25,16 +25,14 @@
 	.inner-hero {
 		display: flex;
 		align-items: center;
-		justify-content: center;
 		height: 100%;
+		justify-content: center;
 	}
 
 	.hero-text-container {
 		width: 600px;
-		text-align: left;
-		background-color: #edb618;
-		padding: 12px;
-       }
+		text-align: center;
+
 		h1, h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 		}
@@ -71,13 +69,12 @@
 		}
 	}
 
-
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
 	}
-	.hero-text-container {
+		.hero-text-container {
 		width: 60%;
-		text-align: left;
+		text-align: center;
 		background-color: #edb618;
 		padding: 12px;
 		font-size: 40px;
