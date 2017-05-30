@@ -34,7 +34,7 @@
 		text-align: left;
 		background-color: #edb618;
 		padding: 12px;
-
+       }
 		h1, h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 		}
@@ -69,17 +69,17 @@
 			flex: 1;
 			padding: 0 20px;
 		}
-     .hero-text-container {
-		width: 60%;
-		text-align: left;
-		background-color: #edb618;
-		padding: 24px;
-		font-size: 40px;
-     }
 	}
 
 
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
 	}
+	.hero-text-container {
+		width: 60%;
+		text-align: left;
+		background-color: #edb618;
+		padding: 12px;
+		font-size: 40px;
+       }
 }
