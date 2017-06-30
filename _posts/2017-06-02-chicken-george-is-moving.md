@@ -10,4 +10,7 @@ author_staff_member: robin
 ---
 
 
-We are happy to announce that Chicken George is moving to a new host. He will be available faster and smoother from Monday.
+> We are happy to announce that Chicken George is moving to a new host. He will be available faster and smoother from Monday.
+>
+>
+> Edgar Hoover, shaker and mover
